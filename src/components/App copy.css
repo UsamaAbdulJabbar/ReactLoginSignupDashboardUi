@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+
+
+.loginPage,.signupPage {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/535/845/69/digital-art-artwork-fantasy-art-planet-sun-hd-wallpaper-preview.jpg);
+  background-size: cover;
+  /* font-size: calc(10px + 2vmin);
+  color: white; */
+}
+
+
+.cardVectorImg{
+  background-image: url(https://sites.duke.edu/brownstone/files/2012/12/BlueHaloGradient.jpg);
+  background-size: cover;
+}
+
+
